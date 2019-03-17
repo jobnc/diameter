@@ -1,12 +1,11 @@
-## to-do lists
-Shchukin Yegor
+## Shchukin Yegor
 - [x] пример таска
 - [x] пример таска
 - [ ] пример таска
 - [ ] пример таска
 - [ ] пример таска
 
-Nikitin Igor
+## Nikitin Igor
 - [x] пример таска
 - [x] пример таска
 - [x] пример таска
